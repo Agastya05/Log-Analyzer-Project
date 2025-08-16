@@ -1,0 +1,8 @@
+404: Not Found
+Aug 17 00:15:00 my-test-pc sshd[9999]: authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=1.2.3.4 user=root
+Aug 17 00:15:00 my-test-pc sshd[9999]: authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=1.2.3.4 user=root
+Aug 17 00:15:00 my-test-pc sshd[9999]: authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=1.2.3.4 user=root
+Aug 17 00:15:00 my-test-pc sshd[9999]: authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=1.2.3.4 user=root
+Aug 17 00:20:00 my-test-pc sshd[9999]: Accepted password for agastya from 1.2.3.4 port 12345 ssh2
+Aug 17 00:20:00 my-test-pc sshd[9999]: Accepted password for agastya from 1.2.3.4 port 12345 ssh2
+    
